@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentSendenundEmpfangen</string>
+    <string name="button_name">Absenden</string>
+    <string name="infotext_name">Drücke den Knopf um deine Nachricht zu senden!</string>
+    <string name="gewinnertext_name">Gewinner aus erstem Activity</string>
+    <string name="altergewinnertext_name">Alter des Gewinners aus erstem Activity</string>
+    <string name="zuruecksendenbutton_name">Zurücksenden</string>
+</resources>
